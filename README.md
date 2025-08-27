@@ -5,8 +5,3 @@ Este repositório contém os **exercícios, modelos e atividades** desenvolvidos
 
 ## 📌 Objetivo
 Organizar em um só lugar os materiais da disciplina (PDFs, diagramas e scripts SQL), facilitando o estudo e a consulta.
-
----
-
-## ✨ Autora
-- [Bruna Rodrigues Gomes](https://github.com/brunagomess26)
